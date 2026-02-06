@@ -6,13 +6,13 @@ const config = {
   server: {
     host: 'kalwi.id', // Change to your server IP
     port: 25565,
-    version: '1.20.4' // Change to your server version
+    version: '1.21.4' // Change to your server version
   },
   bot: {
-    username: 'AFKBot', // Change to your desired bot name
+    username: 'ParjoGg5865', // Change to your desired bot name
     auth: 'offline', // 'offline', 'microsoft', or 'mojang'
     password: '', // Minecraft account password (if using premium auth)
-    authmePassword: '/register botafk69 /login botafk69' // AuthMe password for /register and /login
+    authmePassword: 'botafk69' // AuthMe password for /register and /login
   },
   serverCommands: {
     enabled: true,
