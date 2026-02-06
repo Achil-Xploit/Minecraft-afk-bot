@@ -5,7 +5,7 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 const config = {
   server: {
     host: 'kalwi.id', // Change to your server IP
-    port: 25565,
+    port: 19132,
     version: '1.21.4' // Change to your server version
   },
   bot: {
