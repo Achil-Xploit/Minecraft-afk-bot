@@ -4,7 +4,7 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 // Configuration - Edit these values for your server
 const config = {
   server: {
-    host: '0.tcp.ap.ngrok.io:12064', // Change to your server IP
+    host: 'kalwi.id', // Change to your server IP
     port: 25565,
     version: '1.20.4' // Change to your server version
   },
